@@ -1,0 +1,11 @@
+h1 {
+  text-align: center;
+}
+.jumbotron {
+  background-color: lightblue;
+}
+body {
+  color: black;
+  background-image: url('../img/hk.jpg');
+  background-size: cover;
+}
